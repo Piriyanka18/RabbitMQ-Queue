@@ -1,0 +1,17 @@
+D:\App\Queue\MultipleQueue\MultipleQueue\bin\Debug\net6.0\MultipleQueue.exe
+D:\App\Queue\MultipleQueue\MultipleQueue\bin\Debug\net6.0\MultipleQueue.deps.json
+D:\App\Queue\MultipleQueue\MultipleQueue\bin\Debug\net6.0\MultipleQueue.runtimeconfig.json
+D:\App\Queue\MultipleQueue\MultipleQueue\bin\Debug\net6.0\MultipleQueue.dll
+D:\App\Queue\MultipleQueue\MultipleQueue\bin\Debug\net6.0\MultipleQueue.pdb
+D:\App\Queue\MultipleQueue\MultipleQueue\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\App\Queue\MultipleQueue\MultipleQueue\obj\Debug\net6.0\MultipleQueue.csproj.AssemblyReference.cache
+D:\App\Queue\MultipleQueue\MultipleQueue\obj\Debug\net6.0\MultipleQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\App\Queue\MultipleQueue\MultipleQueue\obj\Debug\net6.0\MultipleQueue.AssemblyInfoInputs.cache
+D:\App\Queue\MultipleQueue\MultipleQueue\obj\Debug\net6.0\MultipleQueue.AssemblyInfo.cs
+D:\App\Queue\MultipleQueue\MultipleQueue\obj\Debug\net6.0\MultipleQueue.csproj.CoreCompileInputs.cache
+D:\App\Queue\MultipleQueue\MultipleQueue\obj\Debug\net6.0\MultipleQueue.csproj.CopyComplete
+D:\App\Queue\MultipleQueue\MultipleQueue\obj\Debug\net6.0\MultipleQueue.dll
+D:\App\Queue\MultipleQueue\MultipleQueue\obj\Debug\net6.0\refint\MultipleQueue.dll
+D:\App\Queue\MultipleQueue\MultipleQueue\obj\Debug\net6.0\MultipleQueue.pdb
+D:\App\Queue\MultipleQueue\MultipleQueue\obj\Debug\net6.0\MultipleQueue.genruntimeconfig.cache
+D:\App\Queue\MultipleQueue\MultipleQueue\obj\Debug\net6.0\ref\MultipleQueue.dll

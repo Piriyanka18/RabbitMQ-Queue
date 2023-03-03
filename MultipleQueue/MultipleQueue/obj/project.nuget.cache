@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jQlgyJGmby+KAKWqCeHvHFgtzOPlJ/nia8MzD+hzu0Nvu78or+UP7LFHNakcrYUmpwxiMZFcNfkff5DClh/dqw==",
+  "success": true,
+  "projectFilePath": "D:\\App\\Queue\\MultipleQueue\\MultipleQueue\\MultipleQueue.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\piriy\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\piriy\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\piriy\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
