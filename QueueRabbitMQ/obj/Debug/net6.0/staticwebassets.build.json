@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JeTvsrBIj1SWDGZaaDuL+oleHSASf89k/MPCzVm153s=",
+  "Source": "QueueRabbitMQ",
+  "BasePath": "_content/QueueRabbitMQ",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
