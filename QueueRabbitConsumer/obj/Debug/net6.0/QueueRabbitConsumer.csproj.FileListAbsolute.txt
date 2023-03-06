@@ -1,0 +1,17 @@
+D:\App\Queue\QueueRabbitMQ1\QueueRabbitMQ1\QueueRabbitConsumer\bin\Debug\net6.0\QueueRabbitConsumer.exe
+D:\App\Queue\QueueRabbitMQ1\QueueRabbitMQ1\QueueRabbitConsumer\bin\Debug\net6.0\QueueRabbitConsumer.deps.json
+D:\App\Queue\QueueRabbitMQ1\QueueRabbitMQ1\QueueRabbitConsumer\bin\Debug\net6.0\QueueRabbitConsumer.runtimeconfig.json
+D:\App\Queue\QueueRabbitMQ1\QueueRabbitMQ1\QueueRabbitConsumer\bin\Debug\net6.0\QueueRabbitConsumer.dll
+D:\App\Queue\QueueRabbitMQ1\QueueRabbitMQ1\QueueRabbitConsumer\bin\Debug\net6.0\QueueRabbitConsumer.pdb
+D:\App\Queue\QueueRabbitMQ1\QueueRabbitMQ1\QueueRabbitConsumer\bin\Debug\net6.0\RabbitMQ.Client.dll
+D:\App\Queue\QueueRabbitMQ1\QueueRabbitMQ1\QueueRabbitConsumer\obj\Debug\net6.0\QueueRabbitConsumer.csproj.AssemblyReference.cache
+D:\App\Queue\QueueRabbitMQ1\QueueRabbitMQ1\QueueRabbitConsumer\obj\Debug\net6.0\QueueRabbitConsumer.GeneratedMSBuildEditorConfig.editorconfig
+D:\App\Queue\QueueRabbitMQ1\QueueRabbitMQ1\QueueRabbitConsumer\obj\Debug\net6.0\QueueRabbitConsumer.AssemblyInfoInputs.cache
+D:\App\Queue\QueueRabbitMQ1\QueueRabbitMQ1\QueueRabbitConsumer\obj\Debug\net6.0\QueueRabbitConsumer.AssemblyInfo.cs
+D:\App\Queue\QueueRabbitMQ1\QueueRabbitMQ1\QueueRabbitConsumer\obj\Debug\net6.0\QueueRabbitConsumer.csproj.CoreCompileInputs.cache
+D:\App\Queue\QueueRabbitMQ1\QueueRabbitMQ1\QueueRabbitConsumer\obj\Debug\net6.0\QueueRabbitConsumer.csproj.CopyComplete
+D:\App\Queue\QueueRabbitMQ1\QueueRabbitMQ1\QueueRabbitConsumer\obj\Debug\net6.0\QueueRabbitConsumer.dll
+D:\App\Queue\QueueRabbitMQ1\QueueRabbitMQ1\QueueRabbitConsumer\obj\Debug\net6.0\refint\QueueRabbitConsumer.dll
+D:\App\Queue\QueueRabbitMQ1\QueueRabbitMQ1\QueueRabbitConsumer\obj\Debug\net6.0\QueueRabbitConsumer.pdb
+D:\App\Queue\QueueRabbitMQ1\QueueRabbitMQ1\QueueRabbitConsumer\obj\Debug\net6.0\QueueRabbitConsumer.genruntimeconfig.cache
+D:\App\Queue\QueueRabbitMQ1\QueueRabbitMQ1\QueueRabbitConsumer\obj\Debug\net6.0\ref\QueueRabbitConsumer.dll
